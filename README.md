@@ -1,4 +1,4 @@
 # Gamko
 
-![Logo](https://github.com/Gukozo/Gamko/blob/master/Logo.jpg)
+![Logo](https://github.com/Gukozo/Gamko/blob/master/images/Logo.jpg?raw=true)
 
